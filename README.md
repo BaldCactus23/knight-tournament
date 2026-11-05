@@ -1,5 +1,5 @@
 # Рыцарские турниры
 
-[Играть в браузере](https://baldcactus23.github.io/knight-tournament/) · [Школа копья](https://baldcactus23.github.io/knight-tournament/?mode=practice)
+[Играть](https://baldcactus23.github.io/knight-tournament/) · [Школа копья](https://baldcactus23.github.io/knight-tournament/?mode=practice)
 
-Публичная игровая сборка. На смартфоне поверните экран горизонтально. Левый круг управляет корпусом, правый — копьём. На ПК используйте WASD и мышь.
+На телефоне зажмите шлем на правом силуэте, держите и отпустите при сигнале «Бей!». Левый круг управляет наклоном корпуса. На ПК можно зажать левую кнопку прямо на всаднике. WASD наклоняет рыцаря.
